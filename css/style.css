@@ -1,0 +1,84 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+   } 
+   .navbar-nav li a:hover{
+    background-color: red;
+   }
+   .header-container{
+    background-color: rgb(255, 255, 255);
+   }
+.container-box{
+    background-color: rgb(212, 224, 224);
+    height: 100px;
+}
+.body-part{
+    background-color: rgb(235, 228, 228);
+
+}
+
+/* frelancer start---------------- */
+.frelancer
+{
+    background-color: rgb(173, 163, 163);
+
+}
+.freelancer-img
+{
+    width: 100%;
+    height: 500px;
+}
+.freelancer-img-info
+{
+    padding-top: 120px;
+    padding-left: 100px;
+}
+/* frelancer end---------------- */
+
+/* service start-------- */
+.service-section
+{
+    background-color: rgb(235, 228, 228);
+
+}
+/* service start-------- */
+
+/* latest project .............*/
+.latest-project
+{
+    background-color: rgb(173, 163, 163);
+
+}
+.latest-project-img
+{
+    width: 100%;
+    height: 300px;
+}
+/* latest project ....................*/
+.header-img
+{
+    width: 100%;
+    height: 500px;
+}
+
+/* useful-ing---------------- */
+.useful-link{
+    padding: 20px;
+    background-color: rgb(102, 99, 99);
+}
+.usefil-link-img
+{
+    width: 120px;
+    height: 50px;
+}
+/* useful-ing---------------- */
+
+/* testimonial start here---------- */
+.testimonial{
+    background-color: rgb(235, 228, 228);
+
+
+}
+
+

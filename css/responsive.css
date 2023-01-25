@@ -1,0 +1,35 @@
+/* responsive part start here */
+@media(max-width:576px) 
+{
+    .header-container{
+        background-color: antiquewhite;
+       }
+    .container-box{
+        background-color: rgb(124, 120, 120);
+        height: 100px;
+    }
+    .container-box ul{
+        padding: 30px;
+    }
+    .container-box ul a{
+        margin: 20px;
+        padding: 35px;
+    
+    }
+    .body-part{
+        text-align: center;
+        margin: 10px;
+        padding: 10px;
+    }
+    .useful-link{
+        display: flex;
+
+    }
+    .usefil-link-img{
+        width: 60px;
+        height: 40px;
+    }
+    
+  }
+
+/* responsive part end here */
